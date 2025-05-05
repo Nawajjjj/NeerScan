@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189812636693",
+    "project_id": "neerscan-11440",
+    "storage_bucket": "neerscan-11440.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189812636693:android:43a94e7104a0f20c6da21c",
+        "android_client_info": {
+          "package_name": "com.neerscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGvQZTBcQObqXPKSWs44aRvIFahmfom00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
